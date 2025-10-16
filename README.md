@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kxrochi
 - 👀 I’m interested in Coding, Basketball, Reading, Gaming, Golf and Nature.
-- 🌱 I’m currently studying as a Bachelor of Computer Science and im very interested in Cryptography and AI/ML.
+- 🌱 I’m currently studying as a Bachelor of Computer Science and im very interested in Quantum computing and AI/ML.
 - 💞️ I’m looking to collaborate on any beginner AI or Gaming projects
 - 📫 How to reach me? - kashyapchilakamarri@gmail.com
 - 😄 Pronouns: he/him
