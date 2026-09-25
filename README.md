@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kxrochi
 - 🌱 I’m currently studying as a Bachelor of Computer Science and im very interested in Quantum computing and AI/ML.
--  I’m looking to collaborate on any beginner AI or Gaming projects
+-  I’m looking to collaborate on any beginner AI or Quantum computing projects
 - 📫 How to reach me? - kashyapchilakamarri@gmail.com
 
 <!---
